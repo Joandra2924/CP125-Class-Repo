@@ -11,5 +11,3 @@ print(f"x contains: {x}")
 
 y = add_with_return(5, 3)
 print(f"y contains: {y}")
-print(y + 1)
-print(x + 1)
